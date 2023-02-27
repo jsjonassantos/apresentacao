@@ -73,7 +73,7 @@ li{
 aside > ul {
     list-style-type: '\2714\00A0\00A0';
     list-style-position: inside;
-    padding: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 10px;
 }
 
 a{
@@ -97,10 +97,11 @@ aside {
     min-width: 300px;
     max-width: 600px;
     margin: auto;
-    padding: 1px 0px 1px 10px;
+    padding: 0px 0px 10px 0px;
 }
 
 aside > h1 {
     color: var(--cor3);
     font-size: 1.7em;
+    text-align: center;
 }
